@@ -41,3 +41,21 @@ Built and maintained by **[Dev2Share — Remote-First AI, Security & Backend Eng
 - **[Spec-Forge — Zero-Config OpenAPI 3.x Mock & MCP Server](https://spec-forge.dev2share.com)**
 - **[Nightfall — 6-Player Co-Op WebSocket Horror Escape Game](https://nightfall-cps8.onrender.com/)**
 - **[Dev2Share Advisory & Engineering Sprints](https://dev2share.com/)**
+
+
+## 🛡️ 2026 MCP Security & AI Agent Firewall Audit Guides (100% Client-Side)
+- **[Main ToolShield & Inquisitor Console (dev2share.com/tool-shield/)](https://dev2share.com/tool-shield/)**
+- [Cursor IDE (.cursor/mcp.json) Security Vulnerability Scanner](https://dev2share.com/tool-shield/cursor-mcp-json-security-audit.html)
+- [Claude Desktop (claude_desktop_config.json) Security Audit](https://dev2share.com/tool-shield/claude-desktop-config-mcp-security.html)
+- [Claude Code CLI & MCP Tool Permission Guardrails](https://dev2share.com/tool-shield/claude-code-mcp-tool-permissions-guide.html)
+- [Filesystem MCP Server Security & Path Traversal Auditor](https://dev2share.com/tool-shield/filesystem-mcp-server-path-traversal-security.html)
+- [PostgreSQL & SQLite MCP Server Read-Only Security Scanner](https://dev2share.com/tool-shield/postgres-database-mcp-server-read-only-security.html)
+- [GitHub MCP Server Token Scope & Exfiltration Scanner](https://dev2share.com/tool-shield/github-mcp-server-token-scope-security.html)
+- [Docker, Bash & Shell MCP Server Sandboxing Auditor](https://dev2share.com/tool-shield/docker-bash-shell-mcp-server-sandboxing.html)
+- [MCP Server SSRF & Cloud Metadata (169.254.169.254) Firewall](https://dev2share.com/tool-shield/mcp-ssrf-aws-imds-metadata-protection.html)
+- [Indirect Prompt Injection & Tool-Poisoning Firewall for MCP](https://dev2share.com/tool-shield/indirect-prompt-injection-mcp-firewall.html)
+- [SOC2 & EU AI Act Article 12 Compliance Scanner for AI Agents](https://dev2share.com/tool-shield/eu-ai-act-soc2-agent-audit-trail-compliance.html)
+- [Windsurf, Cline & Roo Code MCP Security Config Scanner](https://dev2share.com/tool-shield/windsurf-cline-roo-code-mcp-security.html)
+- [Slack, Notion & Workspace MCP Data Leak Prevention (DLP) Scanner](https://dev2share.com/tool-shield/slack-notion-workspace-mcp-data-leak-prevention.html)
+- [Playwright & Puppeteer Browser MCP Security Scanner](https://dev2share.com/tool-shield/browser-playwright-puppeteer-mcp-security.html)
+- [Enterprise Zero-Trust MCP Gateway Architecture](https://dev2share.com/tool-shield/enterprise-mcp-gateway-zero-trust-architecture.html)
